@@ -1,5 +1,14 @@
 # spring-cloud-101
 
+- Spring cloud config server - repo for local config files
+- Naming server
+- limit service request Rest API
+- Rest API services that one use another(2 or more rest api)
+- api gateway service
+- docker deployed by docker compose all
+- zipkin server - distributed tracing server
+- rabbit mq use with pipkin server for asynchronous request
+- user circuit breaker or proxy
 
 Microservices with spring boot
 
